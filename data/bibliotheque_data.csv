@@ -4,3 +4,8 @@ ID Livre,Titre,Auteur,Annee,Genre,Langue,ID Membre,Nom Membre,Type Membre,Date E
 3,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,English,103,Charlie,Student,2023-01-03,
 4,Dune,Frank Herbert,1965,Science Fiction,English,104,David,Teacher,2023-01-04,2023-01-20
 5,Introduction to Machine Learning,Alice Johnson,2019,Machine Learning,French,105,Eva,Student,2023-01-05,
+6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,English,106,Frank,Student,2023-01-06,2023-01-18
+7,The Hobbit,J.R.R. Tolkien,1937,Fantasy,English,107,Grace,Teacher,2023-01-07,2023-01-14
+8,1984,George Orwell,1949,Dystopian,English,108,Henry,Student,2023-01-08,
+9,To Kill a Mockingbird,Harper Lee,1960,Fiction,English,109,Ivy,Teacher,2023-01-09,
+10,The Catcher in the Rye,J.D. Salinger,1951,Fiction,English,110,Jack,Student,2023-01-10,2023-01-25

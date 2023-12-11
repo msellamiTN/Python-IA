@@ -1,0 +1,6 @@
+ID Livre,Titre,Auteur,Annee,Genre,Langue,ID Membre,Nom Membre,Type Membre,Date Emprunt,Date Retour
+1,Python Programming,John Doe,2022,Programming,English,101,Alice,Student,2023-01-01,2023-01-15
+2,Data Science Basics,Jane Smith,2020,Data Science,English,102,Bob,Teacher,2023-01-02,2023-01-10
+3,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,English,103,Charlie,Student,2023-01-03,
+4,Dune,Frank Herbert,1965,Science Fiction,English,104,David,Teacher,2023-01-04,2023-01-20
+5,Introduction to Machine Learning,Alice Johnson,2019,Machine Learning,French,105,Eva,Student,2023-01-05,
